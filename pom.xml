@@ -40,6 +40,5 @@
     <module>product-service</module>
     <module>order-service</module>
     <module>inventory-service</module>
-    <module>extras-service</module>
   </modules>
 </project>
